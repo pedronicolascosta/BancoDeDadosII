@@ -1,5 +1,5 @@
 # Banco De Dados II
-![image](https://github.com/user-attachments/assets/5610149d-26d7-4529-906a-d33bec0aee92)
+![image](https://github.com/user-attachments/assets/5610149d-26d7-4529-906a-d33bec0aee92)<br>
 🏫 Universidade Municipal de São Caetano do Sul - USCS<br>
 👨‍🏫 Professora: Samaris Ramiro Pereira<br>
 🤓 Autor: <a href="https://github.com/pedronicolascosta">Pedro Nicolas Costa</a><br>
