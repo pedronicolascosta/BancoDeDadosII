@@ -225,9 +225,6 @@ VALUES
 -- 13. Deleção das tabelas e banco de dados.
 --
 
--- 14. Usar comentários para identificar cada item.
---
-
 -- Retorna a quantidade de inscrições de preferência de agendamento para o dia atual
 SELECT COUNT(*) AS quantidade_agendamentos
 FROM preferenciaAgendamento
