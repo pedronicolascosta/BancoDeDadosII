@@ -1,3 +1,13 @@
+-- Banco de Dados II
+-- Produto Final
+
+-- 1. O nome dos componentes do grupo como comentário.
+-- Giovanna Lanzi
+-- Giovanna Rafaela
+-- Pedro Nicolas Costa
+-- Sophia
+
+-- 2. Criação das tabelas e banco de dados.
 -- CRIAÇÃO DO BANCO
 CREATE DATABASE MartorelliTattoo;
 USE MartorelliTattoo;
@@ -23,7 +33,6 @@ CREATE TABLE Estilo (
     	tipoEstilo VARCHAR(30) NOT NULL,
    	tamanho INT NOT NULL
 );
-
 
 -- CRIAÇÃO DA TABELA CLIENTE/ESTILO - PEDRO
 CREATE TABLE Cliente_Estilo (
@@ -95,7 +104,7 @@ CREATE TABLE Escolhe (
     FOREIGN KEY (codigoCliente) REFERENCES Cliente(codigoCliente)
 );
 
-
+-- 3. Inserção de no mínimo 5 registros em cada tabela.
 -- Inserindo clientes na tabela Cliente
 INSERT INTO Cliente (nome, email, senha, cpf, dataNascimento, telefone, whatsapp)
 VALUES 
@@ -186,6 +195,38 @@ VALUES
 (4, 4),  -- Pedro Nicolas
 (5, 5);  -- Marcos Vinicius
 
+-- 4. Uma alteração de registro em cada tabela.
+-- 
+
+-- 5. Uma exclusão de registro em cada tabela.
+--
+
+-- 6. Uma alteração da estrutura de uma das tabelas.
+-- 
+
+-- 7. A conversão dos dados da tabela alterada, se necessário.
+--
+
+-- 8. 5 consultas, cada consulta deve possuir parâmetros diferentes e envolver apenas uma tabela por consulta.
+--
+
+-- 9. 5 consultas, cada consulta deve possuir parâmetros diferentes e envolver no mínimo duas tabelas.
+--
+
+-- 10. Criação de uma função.
+--
+
+-- 11. Criação e execução de uma procedure.
+--
+
+-- 12. Criação de um gatilho.
+--
+
+-- 13. Deleção das tabelas e banco de dados.
+--
+
+-- 14. Usar comentários para identificar cada item.
+--
 
 -- Retorna a quantidade de inscrições de preferência de agendamento para o dia atual - PEDRO
 SELECT COUNT(*) AS quantidade_agendamentos
