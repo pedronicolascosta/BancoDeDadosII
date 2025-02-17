@@ -18,3 +18,6 @@ Exercícios com uso de PROCEDURE<br>
 ## Atividade #05 ✅<br>
 Exercícios com uso de GATILHO<br>
 ➡️ <a href="#">Veja aqui</a><br><br>
+## Atividade #06 ✅<br>
+Simulado Final<br>
+➡️ <a href="#">Veja aqui</a><br><br>
