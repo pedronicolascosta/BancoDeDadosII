@@ -13,11 +13,8 @@ Simulado<br>
 Exercícios SELECTs Beecrownd<br>
 ➡️ <a href="#">Veja aqui</a><br><br>
 ## Atividade #04 ✅<br>
-Exercícios SELECTs Beecrownd II<br>
-➡️ <a href="#">Veja aqui</a><br><br>
-## Atividade #05 ✅<br>
 Exercícios com uso de PROCEDURE<br>
 ➡️ <a href="#">Veja aqui</a><br><br>
-## Atividade #06 ✅<br>
+## Atividade #05 ✅<br>
 Exercícios com uso de GATILHO<br>
 ➡️ <a href="#">Veja aqui</a><br><br>
