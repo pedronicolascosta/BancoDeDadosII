@@ -20,4 +20,4 @@ Simulado Final<br>
 ➡️ <a href="https://github.com/pedronicolascosta/BancoDeDadosII/tree/main/ATIVIDADE%2005">Veja aqui</a><br><br>
 ## Projeto Semestral 🛠️✅<br>
 Simulado Final<br>
-➡️ <a href="#">Veja aqui</a><br><br>
+➡️ <a href="https://github.com/pedronicolascosta/BancoDeDadosII/blob/main/PROJETO%20SEMESTRAL/ProjetoFinalBancoDeDados.sql">Veja aqui</a><br><br>
