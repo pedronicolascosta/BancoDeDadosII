@@ -21,3 +21,6 @@ Exercícios com uso de GATILHO<br>
 ## Atividade #06 ✅<br>
 Simulado Final<br>
 ➡️ <a href="#">Veja aqui</a><br><br>
+## Projeto Semestral 🛠️✅<br>
+Simulado Final<br>
+➡️ <a href="#">Veja aqui</a><br><br>
